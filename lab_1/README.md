@@ -5,6 +5,6 @@
 включает мигалку, второе - отключает.
 
 _Схема №1:_
-![res1](https://github.com/ArtemDyrdin/MCprogramming/res/res1.jpg)
+![res1](https://github.com/ArtemDyrdin/MCprogramming/blob/main/lab_1/res/res1.jpg)
 
 Код расположен в _main_.
